@@ -25,7 +25,7 @@ The following example was obtained with :
 ``` python generatePDF MachineLearning 4 ``` 
 
 <p align="center">
-  <img src="/images/example_test.PNG" width="300">
+  <img src="/images/example_test.PNG" width="800">
 </p>
 
 Available mode are 0: noblank | 1: Kanji test | 2: reading test | 3: translation test | 4: random test
