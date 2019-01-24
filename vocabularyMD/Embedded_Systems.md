@@ -10,9 +10,18 @@
 | 専用 |　せんよ | specific usage |
 | 汎用 |　はんよ | multi-usage |
 | 同時 |　どうし | synchronous |
-| 増幅 |　ぞうふく | amplificator |
+| 増幅 |　ぞうふく | amplification |
 | 変位 |　へんい | displacement |
 | 調整 |　ちょうせい | adjustment, fitting |
 | 指令 |　しれい | order, instruction |
-| 周辺 |　しゅうへん | peripherical |
+| 周辺 |　しゅうへん | peripheral |
 | 処理部 |　しょりぶ | processor |
+|　直流　|　ちょくりゅう　| AC current |
+|　抵抗　|　ていこう　| resistance |
+|　交流　|　こうりゅう　| DC current |
+|　位置　|　いち　| position |
+|　接続　|　せつぞく　| connection |
+|　検出　|　けんしゅつ　| detection |
+|　信号　|　しんごう　| signal |
+|　再起動　|　さいきどう　| restart |
+|　端子　|　たんし　| port - pin |
