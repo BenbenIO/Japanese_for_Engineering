@@ -22,7 +22,7 @@ Python script that generate vocabulary test based on the vocaulary list. Usage:
 ``` python generatePDF --topic --mode ```
 
 The following example was obtained with : 
-``` python generatePDF MachineLearning 4 ``` 
+``` python generatePDF.py MachineLearning 4 ``` 
 
 <p align="center">
   <img src="/images/example_test.PNG" width="800">
@@ -50,4 +50,5 @@ Proposing lot of domains, the format of 1 explaination page / 1 illustration pag
 * __NHK website__: allows you to search with keywords, and select the size of the articles. [HERE](https://www2.nhk.or.jp/news/nsearch/query.cgi?col=news&charset=utf-8&qi=3&qt=%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD) is the result for A.I without size constraint, a lot of article !!
 ### Others:
 * __TeamAI podcast__: are a great to get use to follow AI related topics. The format is around 20min, and kind of business oriented.
+* __Youtube channels__: Tokyo university class ([HERE](https://www.youtube.com/watch?v=vcruS8hYrUg)) or this guy [AI related explaination](https://www.youtube.com/channel/UCh5M2YUAPW7HnpfTUv7XHmA) are good to train but hard to follow (at least for me) ;)
 
